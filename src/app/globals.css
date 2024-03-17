@@ -105,3 +105,7 @@ a {
     color-scheme: dark;
   }
 }
+
+.date-picker-pop {
+  z-index: 10000 !important;
+}
